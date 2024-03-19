@@ -1,5 +1,14 @@
 # Kotlin
 
+변수 두가지 유형으로 구분된다.    
+1) val : 변경 불가능한 변수, immutable
+ - ex. val message : String = "Hello World!"    
+2) var : 변경 가능한 변수, mutable
+ - ex. var userName = "ivy"    
+      userName = "1234" 
+
+
+
 When
 -
 
